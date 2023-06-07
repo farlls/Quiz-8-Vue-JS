@@ -4,7 +4,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">
                   <a class="navbar-brand" href="/">
-                    <img class="logo" src="logo.png" alt="Logo">
+                    <img class="logo" src="Logo.svg" alt="Logo">
                   </a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -39,7 +39,7 @@
                 </div>
               </nav>
               <section class="hero">
-                <div class="container col-xxl-8 px-4 py-5">
+                <div class="container">
                     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                       <div class="col-10 col-sm-8 col-lg-6">
                         <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_sk5h1kfn.json" background="transparent" speed="1"
@@ -119,6 +119,6 @@
 
 <style>
     .logo{
-        height: 100px;
+        height: 62px;
     }
 </style>
